@@ -8,7 +8,7 @@
 # Site settings
 title: "Unique Title"
 email: ridgehamre@gmail.com
-description: "One Ridge is not enough"
+description: "One Ridge is not Enough"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ridge-hamre.github.io/" # the base hostname & protocol for your site
 #twitter_username: RidgeHamre
