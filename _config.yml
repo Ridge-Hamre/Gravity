@@ -11,7 +11,7 @@ email: ridgehamre@gmail.com
 description: "One Ridge is not Enough"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ridge-hamre.github.io/" # the base hostname & protocol for your site
-#twitter_username: RidgeHamre
+twitter_username: RidgeHamre
 author: Ridge Hamre
 github_username:  Ridge-Hamre
 paginate: 5
