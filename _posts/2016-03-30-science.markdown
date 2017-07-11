@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Science of Ridge"
-date:   2016-03-30 19:45:31 +0530
+date:   2017-07-10 19:45:31 +0530
 categories: science
 author: "Ridge Hamre"
 ---
