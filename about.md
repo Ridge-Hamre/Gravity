@@ -15,8 +15,8 @@ permalink: /about/
   </div>
 <p>  <div class="manual-content">
 
-```
-  - Steps to create files and stuff that is nice to have even if it lacks memes.
+```<br>
+  - Steps to create files and stuff that is nice to have even if it lacks memes.<br>
   - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
   - Name the file according to the format YY-MM-DD-[short name for your post].<br>  <code>2016-03-30-i-love-design.markdown</code><br>
   - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>
