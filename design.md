@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
+title: Learning Time
+permalink: /Learning Time/
 category: "design"
-tagline: "it's all about perception."
+tagline: "Knowledge is power. Books are lethal"
 ---

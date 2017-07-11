@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
+title: Science and Quotes
 permalink: /science/
-tagline: "Humanity is overrated."
+tagline: "Humanity is overrated. Memes are forever."
 category: "science"
 ---

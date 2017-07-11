@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 <h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
+<p>Minimal, text based, liberal Ridge theme<br>for sharing mediocre memes.</p>
 <br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
+<center><p ><strong><span class="manual">Get up and running with</span> Ridge...jk you can't run as fast as Ridge</strong></p></center>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
@@ -16,6 +16,7 @@ permalink: /about/
 <p>  <div class="manual-content">
 
 ```
+  - Steps to create files and stuff that is nice to have even if it lacks memes.
   - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
   - Name the file according to the format YY-MM-DD-[short name for your post].<br>  <code>2016-03-30-i-love-design.markdown</code><br>
   - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>

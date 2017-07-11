@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Download
+title: Download Virus
 permalink: /download/
 
-tagline: "Loved it? Download Gravity"
+tagline: "Loved it? Download Gravity. Hate it? Press Ctrl + W"
 ---
 
 <br>
