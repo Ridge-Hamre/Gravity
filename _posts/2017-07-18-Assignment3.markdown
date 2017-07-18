@@ -9,7 +9,7 @@ The original work submitted for assignment 3 was a Haiku about who Ridge is and 
 
 In order to convert the text into multiple formats so that more people could be exposed to magnificence I had to create a script that upon execution would convert the original into 5 different file formats.In
 
-Follow the link to check out the repository with the Haiku: <a href="https://github.com/Ridge-Hamre/convert-documents/blob/master/haiku.md">Haiku.md</a>
+Follow the link to check out the Haiku: <a href="https://github.com/Ridge-Hamre/convert-documents/blob/master/haiku.md">Haiku.md</a>
 Here it is as HTML: <a href="https://github.com/Ridge-Hamre/convert-documents/blob/master/haiku.html">Haiku.html</a>
 Oh look the same thing but odt: <a href="https://github.com/Ridge-Hamre/convert-documents/blob/master/haiku.odt">Haiku.odt</a> 
 Not bored yet?!?! Check out XML!!!!!: <a href="https://github.com/Ridge-Hamre/convert-documents/blob/master/haiku.xml">Haiku.xml</a> 
