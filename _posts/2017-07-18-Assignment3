@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Assignment 3"
+date:   2017-07-18 19:45:31 +0530
+categories:  ["design", "life"]
+---
+The original work submitted for assignment 3 was a Haiku about who Ridge is and what a person might expect from encountering Ridge. It truely is a masterpiece in the genre of horror haiku's.
+
+In order to convert the text into multiple formats so that more people could be exposed to magnificence I had to create a script that upon execution would convert the original into 5 different file formats.In
+
+follow the link to check out the repository {% if site.github_username %}
