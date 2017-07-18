@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Assignment 3"
-date:   2017-07-18 19:45:31 +0530
+title: "Assignment 3"
+date: 2017-07-18 19:45:31 +0530
 categories: ["design", "science", "life"]
-author "Ridge Hamre"
+author: "Ridge Hamre"
 ---
 The original work submitted for assignment 3 was a Haiku about who Ridge is and what a person might expect from encountering Ridge. It truely is a masterpiece in the genre of horror haiku's.
 
